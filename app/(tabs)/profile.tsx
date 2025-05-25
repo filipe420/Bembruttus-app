@@ -136,7 +136,7 @@ export default function ProfileScreen() {
 
       <View style={styles.menuSection}>
         {menuItems.map(item => (
-          <Link key={item.id} href={item.route} asChild>
+          <Link key={item.id} href={item.route as any} asChild>
             <TouchableOpacity style={styles.menuItem}>
               <View style={styles.menuItemLeft}>
                 {item.icon}
