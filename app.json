@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Bembruttus-app",
+    "slug": "Bembruttus-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/web-app-manifest-192x192.png",
+    "scheme": "Bembruttus-app",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/web-app-manifest-192x192.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/web-app-manifest-192x192.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/web-app-manifest-192x192.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    }
+  }
+}

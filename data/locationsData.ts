@@ -1,0 +1,38 @@
+export const locations = [
+  {
+    id: '1',
+    name: 'Bembruttus Centro',
+    address: 'Rua das Flores, 123 - Centro',
+    phone: '(11) 3456-7890',
+    hours: 'Seg-Dom: 11h às 23h',
+    image: 'https://images.pexels.com/photos/2983098/pexels-photo-2983098.jpeg',
+    rating: 4.8,
+  },
+  {
+    id: '2',
+    name: 'Bembruttus Shopping',
+    address: 'Av. Paulista, 1000 - Bela Vista',
+    phone: '(11) 3456-7891',
+    hours: 'Seg-Sáb: 10h às 22h, Dom: 12h às 20h',
+    image: 'https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg',
+    rating: 4.7,
+  },
+  {
+    id: '3',
+    name: 'Bembruttus Vila Mariana',
+    address: 'Rua Vergueiro, 500 - Vila Mariana',
+    phone: '(11) 3456-7892',
+    hours: 'Seg-Dom: 11h às 23h',
+    image: 'https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg',
+    rating: 4.5,
+  },
+  {
+    id: '4',
+    name: 'Bembruttus Pinheiros',
+    address: 'Rua dos Pinheiros, 300 - Pinheiros',
+    phone: '(11) 3456-7893',
+    hours: 'Seg-Dom: 11h às 23h',
+    image: 'https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg',
+    rating: 4.6,
+  },
+];

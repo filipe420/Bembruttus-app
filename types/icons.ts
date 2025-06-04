@@ -1,0 +1,1 @@
+export type IconNames = 'Burger' | 'Pizza' | 'Coffee' | 'IceCream' | 'Salad';
