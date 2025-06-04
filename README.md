@@ -23,7 +23,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [Expo Router](https://expo.github.io/router/)
-- [React Navigation](https://reactnavigation.org/)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
@@ -66,6 +65,8 @@ Desenvolvimento utilizando TypeScript para maior segurança e produtividade.
 
 ## 👨‍💻 Contribuidores
 Filipe Fernandes de Lima
+
+Carlos Vinícius Carneiro Almeida
 
 ## 💡 Considerações finais
 Este projeto representa uma importante etapa na minha formação acadêmica e profissional, consolidando habilidades essenciais no desenvolvimento de aplicativos móveis.
