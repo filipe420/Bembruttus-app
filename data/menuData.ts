@@ -89,7 +89,7 @@ export const menuItems = [
     name: 'Milk Shake',
     description: 'Chocolate, morango ou baunilha',
     price: 14.90,
-    image: 'https://images.pexels.com/photos/5105021/pexels-photo-5105021.jpeg',
+    image: 'https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg',
     category: 'drinks',
   },
   {
@@ -97,7 +97,7 @@ export const menuItems = [
     name: 'Sorvete',
     description: 'Casquinha de baunilha, chocolate ou mista',
     price: 8.90,
-    image: 'https://images.pexels.com/photos/5060972/pexels-photo-5060972.jpeg',
+    image: 'https://images.pexels.com/photos/1739347/pexels-photo-1739347.jpeg',
     category: 'desserts',
   },
   {
@@ -105,7 +105,7 @@ export const menuItems = [
     name: 'Pudim',
     description: 'Pudim de leite condensado tradicional',
     price: 10.90,
-    image: 'https://images.pexels.com/photos/3187599/pexels-photo-3187599.jpeg',
+    image: 'https://images.pexels.com/photos/18089587/pexels-photo-18089587.jpeg',
     category: 'desserts',
   },
 ];
