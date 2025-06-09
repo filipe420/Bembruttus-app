@@ -39,7 +39,6 @@ Bembruttus-app/
 ├── app/              # Arquivos de rotas e navegação (Expo Router)
 ├── services/         # Serviços, como integrações com Firebase
 ├── utils/            # Funções utilitárias
-├── App.tsx           # Arquivo principal do app em TypeScript
 ├── tsconfig.json     # Configuração do TypeScript
 ├── package.json      # Dependências e scripts
 └── README.md         # Documentação do projeto
