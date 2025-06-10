@@ -8,8 +8,7 @@ Durante essa cadeira, tivemos a oportunidade de explorar e aplicar diversas tecn
 
 - **React Native** para o desenvolvimento multiplataforma.
 - **Firebase** para autenticação e backend.
-- **Expo** como ferramenta facilitadora no ambiente de desenvolvimento.
-- **React Navigation** para navegação entre telas.
+- **Expo** como ferramenta facilitadora no ambiente de desenvolvimento
 - **Expo Router** para simplificação das rotas e organização do projeto.
 
 A construção deste app foi uma **experiência enriquecedora**, permitindo consolidar conhecimentos teóricos e práticos no desenvolvimento mobile e proporcionando uma visão ampla sobre o ecossistema React Native e suas potencialidades.
